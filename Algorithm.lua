@@ -1,6 +1,6 @@
 --[[
 	@Algorithm
-	Desc: Handles the A* algorithm portion of pathfinding
+	Desc: Handles the A* algorithm portion of pathfinding // This file should be under PathfindingServer
 	
 	Last Editor: jack
 --]]
