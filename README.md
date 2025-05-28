@@ -1,2 +1,1 @@
-# pathfinding
-Lua 3D A* Pathfinding
+# Lua 3D A* Pathfinding
