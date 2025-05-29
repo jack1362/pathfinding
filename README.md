@@ -6,11 +6,6 @@ This is a custom pathfinding module for Roblox (Lua) that generates walkable nod
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNlb2s0OHhjeHZjeHVib3g0MTZtOWtjd2QyeGIydXVhN3hlbzF5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8mtC8iijqICxy9VA6/giphy.gif" alt="3D A* Pathfinding Demo" width="800" />
 </div>
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/6b157e49-7931-4a29-85d5-1f40a5b8a9db" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f0e8e167-0ec2-4ce8-8eb4-ea4c356bc2df" width="45%" />
-</p>
-
 ## Structure
 
 - `PathfindingService`: Main module  
