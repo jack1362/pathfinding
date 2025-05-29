@@ -67,6 +67,6 @@ PathfindingService.VISUALIZE_NODES.Value = true
 
 <p align="center">
 <kbd>
-  <img src="https://github.com/user-attachments/assets/ff2e44ae-e64b-4bf3-9c9b-701e65db4f91">
+  [<img src="https://github.com/user-attachments/assets/ff2e44ae-e64b-4bf3-9c9b-701e65db4f91">](https://x.com/i/status/1713724693096632507)
 </kbd>
 </p>
