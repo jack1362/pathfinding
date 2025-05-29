@@ -66,7 +66,6 @@ PathfindingService.VISUALIZE_NODES.Value = true
 - Valid nodes = Neon green
 
 
-<blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">Made a 3D A* pathfinding system in studio. It automatically scales the node grid to the size of the building. This is a visualization of the system. <a href="https://twitter.com/hashtag/RobloxDev?src=hash&amp;ref_src=twsrc%5Etfw">#RobloxDev</a> <a href="https://twitter.com/hashtag/ROBLOX?src=hash&amp;ref_src=twsrc%5Etfw">#ROBLOX</a> <a href="https://twitter.com/hashtag/RDC23?src=hash&amp;ref_src=twsrc%5Etfw">#RDC23</a> <a href="https://twitter.com/robloxdevrel?ref_src=twsrc%5Etfw">@robloxdevrel</a> <a href="https://t.co/iGeqWjjTRO">pic.twitter.com/iGeqWjjTRO</a></p>&mdash; CodedJack (@jack_coded) <a href="https://twitter.com/jack_coded/status/1713724693096632507?ref_src=twsrc%5Etfw">October 16, 2023</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNlb2s0OHhjeHZjeHVib3g0MTZtOWtjd2QyeGIydXVhN3hlbzF5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8mtC8iijqICxy9VA6/giphy.gif" alt="3D A* Pathfinding Demo" />
+</div>
