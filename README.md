@@ -65,4 +65,8 @@ PathfindingService.VISUALIZE_NODES.Value = true
 - Invalid nodes = Red  
 - Valid nodes = Neon green
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Which frontend or backend framework will make you instantly hireable? ð¤</p>— Arman ð» (@programmerByDay) <a href="https://twitter.com/programmerByDay/status/1698818446795145521?ref_src=twsrc%5Etfw"&gt;September 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p align="center">
+<kbd>
+  <img src="https://github.com/user-attachments/assets/ff2e44ae-e64b-4bf3-9c9b-701e65db4f91">
+</kbd>
+</p>
