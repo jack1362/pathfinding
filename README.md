@@ -65,14 +65,4 @@ PathfindingService.VISUALIZE_NODES.Value = true
 - Invalid nodes = Red  
 - Valid nodes = Neon green
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">Made a 3D A* pathfinding system in studio. It automatically scales the node grid to the size of the building. This is a visualization of the system. 
-  <a href="https://twitter.com/hashtag/RobloxDev?src=hash&ref_src=twsrc%5Etfw">#RobloxDev</a> 
-  <a href="https://twitter.com/hashtag/ROBLOX?src=hash&ref_src=twsrc%5Etfw">#ROBLOX</a> 
-  <a href="https://twitter.com/hashtag/RDC23?src=hash&ref_src=twsrc%5Etfw">#RDC23</a> 
-  <a href="https://twitter.com/robloxdevrel?ref_src=twsrc%5Etfw">@robloxdevrel</a> 
-  <a href="https://t.co/iGeqWjjTRO">pic.twitter.com/iGeqWjjTRO</a></p>
-  &mdash; CodedJack (@jack_coded) 
-  <a href="https://twitter.com/jack_coded/status/1713724693096632507?ref_src=twsrc%5Etfw">October 16, 2023</a>
-</blockquote> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Which frontend or backend framework will make you instantly hireable? ð¤</p>— Arman ð» (@programmerByDay) <a href="https://twitter.com/programmerByDay/status/1698818446795145521?ref_src=twsrc%5Etfw"&gt;September 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
