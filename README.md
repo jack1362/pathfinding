@@ -2,6 +2,10 @@
 
 This is a custom pathfinding module for Roblox (Lua) that generates walkable nodes for characters within a defined area. It uses a modified A* algorithm to calculate the nodes. It is designed for use in areas that could benefit from a grid-based pathfinding system with multiple floors and ramps.
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNlb2s0OHhjeHZjeHVib3g0MTZtOWtjd2QyeGIydXVhN3hlbzF5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8mtC8iijqICxy9VA6/giphy.gif" alt="3D A* Pathfinding Demo" width="800" />
+</div>
+
 ## Structure
 
 - `PathfindingService`: Main module  
@@ -64,8 +68,3 @@ PathfindingService.VISUALIZE_NODES.Value = true
 
 - Invalid nodes = Red  
 - Valid nodes = Neon green
-
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNlb2s0OHhjeHZjeHVib3g0MTZtOWtjd2QyeGIydXVhN3hlbzF5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8mtC8iijqICxy9VA6/giphy.gif" alt="3D A* Pathfinding Demo" />
-</div>
